@@ -1,4 +1,4 @@
-# the_survival_chalange
+# the_survival_challenge
 Project for the game development course at Ariel University
 בס"ד 
 
