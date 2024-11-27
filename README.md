@@ -8,6 +8,7 @@ Project for the game development course at Ariel University
 איתמר שפיצר
 
 שם המשחק: אתגר הישרדות בטבע
+
 [רכיבים רשמיים](https://github.com/gamedev-ariel/the_survival_challenge/wiki)
 
 רעיון כללי:
