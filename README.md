@@ -1,43 +1,116 @@
-# the_survival_challenge
-Project for the game development course at Ariel University
-בס"ד 
+# Survival Challenge in the Wild - GitHub README
 
-מגישים:
+Welcome to the **Survival Challenge in the Wild** project! This is an adventure-survival game that immerses players in a hostile natural environment, challenging them to utilize their skills, strategy, and adaptability to survive. Whether stranded on a remote island or lost in the Amazon rainforest, the game offers an engaging mix of exploration, resource management, and decision-making.
 
-ערן דוד צארום
-איתמר שפיצר
-
-שם המשחק: אתגר הישרדות בטבע
 
 [רכיבים רשמיים](https://github.com/gamedev-ariel/the_survival_challenge/wiki)
 
-רעיון כללי:
-"אתגר הישרדות בטבע" הוא משחק הרפתקה-הישרדות המתרחש על אי בודד או בתוך יערות הגשם של האמזונס. השחקן מוצא את עצמו במרחב טבעי עוין ופרוע עם מעט מאוד משאבים, ומטרתו לשרוד על ידי איסוף חפצים חיוניים, מציאת מקורות מזון ומים, בניית מחסה, והתמודדות עם אתגרים סביבתיים שונים. המשחק משלב אסטרטגיה, חקירה ופיתוח מיומנויות כאשר השחקן מנווט בין סכנות וקסמי הסביבה.
-רקע המשחק ועלילה:
-השחקן מגלם דמות שנקלעה לבדה לאי מרוחק (או לאזור מרוחק ביער האמזונס) בעקבות התרסקות מטוס. כדי לשרוד, עליו להסתגל לסביבה ולהשתמש במשאבים מוגבלים כדי לעמוד בפני אתגרים שונים. עם הזמן, השחקן יפגוש חיות בר, יתמודד עם תנאי מזג אוויר משתנים, ויחפש רמזים שיעזרו לו לפענח את המקום ואולי גם למצוא דרך מילוט.
-מטרות:
-המטרה הראשונית היא לשרוד כמה שיותר זמן. השחקן יתמקד בצרכים הישרדותיים מידיים כמו השגת אוכל ומים, שמירה על בריאותו, בניית מחסה, והגנה מפני חיות בר. מטרות משניות כוללות גילוי אזורים נסתרים באי או ביער, מציאת רמזים לאוצרות (אם ישנם) והבנת המפה להימלטות.
-מכניקות משחק:
-איסוף משאבים:
-השחקן יחפש משאבים חיוניים כמו מים, צמחי מאכל, עץ ואבנים כדי ליצור כלים, לבנות מחסה ולשרוד.
-יצירה ובנייה:
-השחקן יכול להכין כלים בסיסיים (כמו חניתות וגרזנים) ולבנות מחסה להגנה מפני מזג אוויר ומפני חיות. היצירה תדרוש מציאת חומרים ספציפיים בסביבה ושילובם באופן יצירתי.
-ניהול בריאות וסיבולת:
-לדמות יהיו מדדי בריאות וסיבולת, והשחקן יצטרך להקפיד על שתייה, מזון ומנוחה כדי למנוע תשישות או פציעה. ניהול לא נכון של הבריאות והסיבולת עלול להוביל לתבוסה.
-מזג אוויר ומפגעים סביבתיים:
-הסביבה תכלול תנאים משתנים כמו גשם, חום, חיות בר, וחושך בלילה. השחקן יצטרך להסתגל לשינויים אלה, למשל על ידי בניית מחסות מתאימים או הדלקת אש להברחת חיות.
-מיני-משחקים לפיתוח מיומנויות הישרדות:
-לכל פעילות הישרדותית יהיו מיני-משחקים קטנים שידרשו מהירות החלטה ותיאום:
-אתגר דיג: מיני-משחק מבוסס תזמון ומיקום לתפיסת דגים בנחל סמוך.
-חידת טיהור מים: משחק התאמה לטיהור מקורות מים מזוהמים.
-התמודדות עם חיות: מפגש עם חיות תוקפניות ידרוש תגובות מהירות כדי להבריח או להתחמק.
-ניהול מלאי:
-לשחקן יש שטח מוגבל במלאי, ויהיה עליו להחליט אילו חפצים חשובים יותר. זה יוסיף רובד של אסטרטגיה כשהשחקן יצטרך להחליט אילו משאבים לשמור או לשחרר.
-יומן הישרדות:
-יומן הישרדות מאפשר לשחקן לעקוב אחר מקורות מזון, מקומות בטוחים, שבילים נסתרים וכל גילוי שיכול לסייע בהישרדות או בהימלטות.
-חוקים ומגבלות:
-הישרדות חד פעמית: השחקן מקבל חיים אחד בלבד, כך שאם הדמות מתה מרעב, התייבשות או מתקיפת חיה, המשחק יתחיל מחדש.
-מחזור יום ולילה: המחזור ישפיע על הנראות, כשבלילה הגורמים המסכנים גוברים עקב קושי ראייה וחיות ליליות פעילות יותר.
-רמות אתגר: ככל שהשחקן מתקדם, הוא יתמודד עם משימות הישרדות מורכבות יותר והסביבה תציב אתגרים קשים יותר.
-השפעה על השחקן:
-המשחק מספק סימולציה של מצבי הישרדות אמיתיים ומאתגר את השחקן לחשוב בצורה אסטרטגית, להגיב במהירות לסכנות ולנהל משאבים באופן חכם. בהתמודדות עם יופיו וחומרתו של הטבע, השחקן מפתח כישורי חשיבה ביקורתית, פתרון בעיות ועמידה בלחץ.
+
+
+---
+
+## 🎮 **Game Overview**
+
+### General Concept  
+In *Survival Challenge in the Wild*, players must navigate an untamed wilderness filled with limited resources, environmental hazards, and unpredictable challenges. The goal is simple: **survive**. From building shelters to scavenging for food and water, every decision impacts the player’s journey and ultimate success.  
+
+### Storyline  
+The player takes on the role of a lone survivor of a plane crash. Stranded in a remote location—either a deserted island or deep within the Amazon rainforest—the player must adapt to their surroundings, gather resources, and overcome obstacles to survive. Along the way, the player encounters wildlife, changing weather conditions, and mysterious clues that may lead to salvation.
+
+---
+
+## 🌟 **Features**
+
+### Core Gameplay Mechanics:
+- **Resource Collection**: Gather water, edible plants, wood, and stones to craft tools, construct shelters, and survive.  
+- **Crafting and Building**: Create essential tools (e.g., spears, axes) and build shelters for protection against the elements and predators.  
+- **Health and Stamina Management**: Monitor your character's well-being by maintaining adequate hydration, nutrition, and rest. Poor management may lead to injuries or exhaustion.  
+- **Dynamic Environment**: Navigate changing weather, dangerous animals, and the day-night cycle, which affects visibility and safety.  
+
+### Mini-Games:
+- **Fishing Challenge**: A timing-based game to catch fish from nearby streams.  
+- **Water Purification Puzzle**: Match and organize elements to purify contaminated water sources.  
+- **Wildlife Encounters**: Quick-reaction scenarios to scare off or evade predators.  
+
+### Advanced Mechanics:
+- **Inventory Management**: Limited storage space requires strategic decisions about which items to keep or discard.  
+- **Survival Journal**: Track discovered resources, safe zones, hidden paths, and clues for potential escape.  
+- **Progressive Difficulty**: As players advance, challenges increase with more complex tasks and tougher environmental conditions.  
+
+### Rules and Constraints:
+- **One Life Only**: If the player dies from hunger, dehydration, or wildlife attack, the game restarts.  
+- **Day-Night Cycle**: Nighttime brings increased danger and reduced visibility, necessitating torches or fire for safety.  
+
+---
+
+## 🎯 **Objectives**
+
+### Primary Goal:
+- Survive for as long as possible by meeting immediate survival needs (food, water, health, and shelter).  
+
+### Secondary Goals:
+- Discover hidden areas and solve mysteries within the map.  
+- Locate clues for treasures or escape routes.  
+- Master survival skills through resourceful crafting and problem-solving.
+
+---
+
+## 💡 **Game Impact**
+
+This project aims to provide an immersive survival simulation experience while promoting:  
+- **Critical Thinking**: Encourages players to analyze situations and make strategic decisions.  
+- **Resource Management**: Teaches prioritization and efficient use of limited resources.  
+- **Stress Management**: Tests the player’s ability to remain composed under pressure.  
+
+---
+
+## 🛠️ **Technical Details**
+
+### Development Stack:
+- **Programming Language**: C++  
+- **Game Engine**: SFML or Unreal Engine (TBD)  
+- **Graphics**: 2D/3D art assets created using Blender or Photoshop.  
+- **Version Control**: GitHub for project collaboration and tracking.
+
+### Current Status:
+The project is in the **conceptual design phase**, with planned iterations to include:  
+1. **Basic gameplay mechanics** (resource gathering, health/stamina management).  
+2. **Environmental interactions** (dynamic weather, day-night cycle).  
+3. **Advanced systems** (crafting, mini-games, wildlife encounters).  
+
+---
+
+## 🤝 **Contributors**
+
+- **Eran David Tzarum**  
+- **Itamar Spitzer**  
+
+---
+
+## 📦 **Installation Instructions**
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/<username>/survival-challenge.git
+   cd survival-challenge
+   ```
+2. Build the project using the provided `CMakeLists.txt`.  
+3. Run the game executable to start your survival journey!  
+
+---
+
+## 📝 **Future Plans**
+- Add multiplayer co-op mode.  
+- Expand the map with additional biomes.  
+- Include more crafting recipes and interactive wildlife encounters.  
+- Develop an engaging storyline with a potential escape ending.
+
+---
+
+## 📧 **Contact**
+
+For questions or feedback, reach out to the contributors via GitHub or email:  
+- Eran David Tzarum: erantzarum@example.com  
+- Itamar Spitzer: itamarspitzer@example.com  
+
+Enjoy the adventure! 🚀
