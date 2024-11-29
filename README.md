@@ -67,9 +67,8 @@ This project aims to provide an immersive survival simulation experience while p
 ## 🛠️ **Technical Details**
 
 ### Development Stack:
-- **Programming Language**: C++  
-- **Game Engine**: SFML or Unreal Engine (TBD)  
-- **Graphics**: 2D/3D art assets created using Blender or Photoshop.  
+- **Programming Language**: C#  
+- **Game Engine**: Unity
 - **Version Control**: GitHub for project collaboration and tracking.
 
 ### Current Status:
